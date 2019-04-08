@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import '../css/App.css';
 import Router from '../components/Router'
+import ReactDOM from 'react-dom';
 
 class App extends Component {
     constructor(props) {
@@ -9,8 +10,6 @@ class App extends Component {
             loginName:"hey"
         }
     }
-
-
     render() {
         return (
             <Router/>
