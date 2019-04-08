@@ -1,0 +1,16 @@
+{
+  "main.css": "/gui/static/css/main.34d9189a.chunk.css",
+  "main.js": "/gui/static/js/main.f003c42a.chunk.js",
+  "main.js.map": "/gui/static/js/main.f003c42a.chunk.js.map",
+  "runtime~main.js": "/gui/static/js/runtime~main.7ebcf8a4.js",
+  "runtime~main.js.map": "/gui/static/js/runtime~main.7ebcf8a4.js.map",
+  "static/js/2.9cd29e2b.chunk.js": "/gui/static/js/2.9cd29e2b.chunk.js",
+  "static/js/2.9cd29e2b.chunk.js.map": "/gui/static/js/2.9cd29e2b.chunk.js.map",
+  "index.html": "/gui/index.html",
+  "precache-manifest.fb5ef6eabe969992d1810dc78c39bfad.js": "/gui/precache-manifest.fb5ef6eabe969992d1810dc78c39bfad.js",
+  "service-worker.js": "/gui/service-worker.js",
+  "static/css/main.34d9189a.chunk.css.map": "/gui/static/css/main.34d9189a.chunk.css.map",
+  "static/media/alert.png": "/gui/static/media/alert.a453f81d.png",
+  "static/media/logo.svg": "/gui/static/media/logo.5d5d9eef.svg",
+  "static/media/smartron-logo.png": "/gui/static/media/smartron-logo.613fdbf0.png"
+}
