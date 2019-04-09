@@ -24,7 +24,7 @@ class Login extends Component {
                 <img src={logo} height={400}/>
                 <p>Welcome to SMARTron, please login with your LakerNet account</p>
                 <GoogleLogin
-                    clientId="424043128457-fqph89obhe0uqo1fqeerkkb74a3l6dkq.apps.googleusercontent.com"
+                    clientId="121480712018-0f6fb2fh7kbms55bno97g3hiju99n8oo.apps.googleusercontent.com"
                     buttonText="Login with your LakerNet ID"
                     onFailure={this.responseGoogleFail}
                     onSuccess={this.responseGoogleSucc}
